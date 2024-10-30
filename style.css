@@ -107,6 +107,7 @@ ul.social-wraper {
     display: flex;
     flex-direction: row;
     padding: 0;
+    flex-wrap: wrap;
 }
 
 
