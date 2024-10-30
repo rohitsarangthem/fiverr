@@ -552,6 +552,16 @@ ul.nav-links.active {
   }
   
   /* Responsive Styles */
+
+  /*Mobile Design Only for social menu*/
+  @media (max-width: 500px) {
+    ul.social-wraper.fadeInUp-animation {
+        flex-wrap: wrap;
+    }
+
+    }
+  /*Mobile Design Only for social menu*/
+
   @media (max-width: 999px) {
 
     .nav-links {
